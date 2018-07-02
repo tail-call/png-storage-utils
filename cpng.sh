@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Author:   T. C. <tail-call@ponych.at>
+# Author:   Anton Istomin <anton@tail-call.ru>
 # Date:     2016-07-01
-# Modified: 2016-07-03
+# Modified: 2018-07-02
 # Requires: netpbm, coreutils, bc
 
 # Converts any files to PNG images. Bytes are stored as raw pixel data.
